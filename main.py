@@ -53,9 +53,6 @@ print(English)
 print(Chinese)
 print(Part)
 
-
-
-
 ''' test
 # 輸入
 path = 'test.txt'
